@@ -17,6 +17,8 @@ The datasets used for our proposed methods are:-
 6. Breast 
 7. MLL 
 8. SRBCT
+9. RAHC
+10. RAOA
 
 ## Directory Structure
 
@@ -28,9 +30,6 @@ The datasets used for our proposed methods are:-
 | Datasets/Train-Test Split | Contains Random Splits of the Datasets |
 | Datasets/Train-Test Split/<Dataset name> | Random split and MFSGC Results for that dataset |
 | MFSGC Results | LOOCV Results of MFSGC |
-| MFSGC Results/1200 Genes | Dataset-wise result taking top 1200 ranked/filtered genes |
-| MFSGC Results/800 Genes | Dataset-wise result taking top 800 ranked/filtered genes |
-| MFSGC Results/600 Genes | Dataset-wise result taking top 600 ranked/filtered genes |
 
 ## Usage
 Run the notebooks (here we assume Google Colab). Start with **(Train)Multi-filtering Supervised Gene Clustering.**. This notebook provides the main proposed process. Run the cells which would -
