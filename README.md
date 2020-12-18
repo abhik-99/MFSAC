@@ -1,6 +1,6 @@
-# MFSGC
-Multi-Filtering Supervised Gene Clustering is a method which is designed to be used on Gene Expression Datasets for Filtering as well as Gene Augmentation and providing better genes for Cancer Classification.
-
+# MFSAC
+Multi-Filtering Supervised Attribute Clustering is a method which is designed to be used on Gene Expression Datasets for Filtering as well as Attribute or Gene Augmentation and providing better genes for Cancer Classification.
+Please note that here MFSGC AND MFSAC are used interchangeably where an Attribute in a Dataset and Gene in a Gene Expression Dataset are considered synonymous.
 ## Setup.
 The notebooks have been used on Google Colab. Please click on "Open in Colab" button at the top of each notebook. If you wish to use a local setup (not recommended), follow these step:- 
 1. Install Python 3.8
